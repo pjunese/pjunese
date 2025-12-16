@@ -18,4 +18,4 @@ Here are some ideas to get you started:
  <img alt="Static Badge" src="https://img.shields.io/badge/2.7.1-PyTorch-%23EE4C2C?style=flat-square&logo=PyTorch&logoSize=auto">
  <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=C&logoColor=black&logoSize=auto">
  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=C%2B%2B&logoColor=white&logoSize=auto">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cyberpark123)](https://solved.ac/cyberpark123/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cyberpark123@naver.com)](https://solved.ac/cyberpark123@naver.com/)
