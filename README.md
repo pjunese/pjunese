@@ -1,24 +1,13 @@
-## Hi  👋
+## Hi 👋
 
-<!--
-**pjunese/pjunese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/3.10-Python-blue?style=flat-square&logo=Python&logoColor=blue&labelColor=black">
+  <img alt="PyTorch" src="https://img.shields.io/badge/2.7.1-PyTorch-%23EE4C2C?style=flat-square&logo=PyTorch">
+  <img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=C&logoColor=black">
+  <a href="https://solved.ac/cyberpark123">
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=cyberpark123" height="20" style="vertical-align: middle;">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <img alt="Static Badge" src="https://img.shields.io/badge/3.10-Python-blue?style=flat-square&logo=Python&logoColor=blue&logoSize=auto&labelColor=black&color=blue">
- <img alt="Static Badge" src="https://img.shields.io/badge/2.7.1-PyTorch-%23EE4C2C?style=flat-square&logo=PyTorch&logoSize=auto">
- <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=C&logoColor=black&logoSize=auto">
- <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=C%2B%2B&logoColor=white&logoSize=auto">
-
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=cyberpark123)](https://solved.ac/cyberpark123)
