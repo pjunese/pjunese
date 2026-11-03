@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
-  <img alt="pjunese — Code, Data, Experiments" src="./assets/profile-header-light.svg" width="100%">
-</picture>
-
 ### 배우고, 만들고, 다시 개선합니다.
 
 안녕하세요, **pjunese**입니다. AI 모델을 실험하고, 데이터를 다루고, 서비스를 만들어봅니다.
@@ -16,29 +10,21 @@
 
 <br>
 
-## Selected projects
+## Main projects
 
-### [Verimarka · AI Module ↗](https://github.com/pjunese/2026-project)
+### [핀스텝 · FinStep ↗](https://github.com/pjunese/finstep)
 
-이미지 유사도 검색, 워터마크 삽입·검출, 문서 OCR을 연결한 AI 처리 모듈입니다.
+금융 개념을 짧은 설명과 퀴즈로 배우고, 학습 기록에 맞춰 복습하는 금융 학습 앱입니다.
 
-`Python` · `SigLIP2` · `pgvector`
-
----
-
-### [PayScope ↗](https://github.com/pjunese/PayScope)
-
-영수증 OCR과 지출 관리를 React 화면과 Django API로 연결한 서비스입니다.
-
-`React` · `Django` · `MongoDB`
+`Flutter` · `Dart`
 
 ---
 
-### [Tiny-ImageNet-CF ↗](https://github.com/pjunese/Tiny-ImageNet-CF)
+### [럭키로그 · LuckyLog ↗](https://github.com/pjunese/luckylog)
 
-100만 개 미만의 파라미터로 Tiny-ImageNet 이미지 분류 모델을 학습하고 최적화한 프로젝트입니다.
+QR로 로또를 등록하고 구매·당첨 기록과 통계를 관리하는 앱입니다.
 
-`Python` · `PyTorch` · `torchvision`
+`Flutter` · `Dart` · `Firebase`
 
 <br>
 
